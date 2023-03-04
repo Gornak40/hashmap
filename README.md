@@ -1,2 +1,3 @@
-# hashmap
-Hashmap for HSE algorithms
+# HSE Homeworks
+
+### Hashmap
